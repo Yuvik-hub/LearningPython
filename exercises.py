@@ -20,3 +20,13 @@ has_pet = True
 print("\nYour city:", city)
 print("Number of kids:", num_kids)
 print("Has pet:", has_pet)
+
+
+# ▶️ 2. Reassigning Variables
+age = 36  # Happy birthday!
+print("\nNew age after birthday:", age)
+
+
+# ✅ Task 2: Change the value of your city variable to another city and print it
+city = "Toronto"
+print("New city:", city)
